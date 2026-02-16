@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pallapu Balaji - Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="profile">
+            <img src="profile.jpg" alt="Pallapu Balaji">
+            <h1>Pallapu Balaji</h1>
+            <p>Full Stack Developer | Web Developer | Cloud Enthusiast</p>
+        </div>
+        <div class="contact">
+            <h3>Contact</h3>
+            <p>Mobile: +91 9392721056</p>
+            <p>Email: pallapubalaji12@gmail.com</p>
+        </div>
+    </header>
+
+    <section class="skills">
+        <h2>Skills</h2>
+        <ul>
+            <li>C Programming</li>
+            <li>Python Programming</li>
+            <li>Java Programming</li>
+            <li>HTML & CSS</li>
+            <li>Web Development</li>
+            <li>Operating Systems Basics</li>
+            <li>Communication</li>
+        </ul>
+    </section>
+
+    <section class="education">
+        <h2>Education</h2>
+        <ul>
+            <li>SR University, B.Tech in Computer Science (2024-2028)</li>
+            <li>Intermediate, Resonance Junior College, Hanamkonda (2022-2024)</li>
+        </ul>
+    </section>
+
+    <section class="interests">
+        <h2>Interests</h2>
+        <ul>
+            <li>Full Stack Development: Front-End (HTML, CSS, JS, React) & Back-End (Node.js, Express, MongoDB, SQL)</li>
+            <li>UI/UX Design & Responsive Web Design</li>
+            <li>Version Control (Git, GitHub)</li>
+            <li>Cloud Computing: AWS, Azure, Google Cloud</li>
+            <li>Cloud Security & IAM Management</li>
+            <li>Hands-on Projects with Cloud Labs</li>
+        </ul>
+    </section>
+
+    <section class="certifications">
+        <h2>Certifications</h2>
+        <ul>
+            <li>OS Certification</li>
+            <li>C Programming</li>
+            <li>Python Programming</li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>&copy; 2026 Pallapu Balaji</p>
+    </footer>
+</body>
+</html>
